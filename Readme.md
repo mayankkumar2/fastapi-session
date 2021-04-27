@@ -64,6 +64,10 @@ pip install -r requirements.txt
 uvicorn main:app
 ```
 
+## References
+- https://fastapi.tiangolo.com/
+- https://fastapi.tiangolo.com/tutorial/sql-databases/
+
 ## Contributors
 
 <table>
