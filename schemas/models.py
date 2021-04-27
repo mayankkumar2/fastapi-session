@@ -17,9 +17,8 @@ class DeletePostResponse(BaseModel):
 
 
 class UpdatePost(BaseModel):
-    id: UUID
-    title: str
-    description: str
+    detail: str
+    post: Optional[Post]
 
     class Config:
         orm_mode = True
