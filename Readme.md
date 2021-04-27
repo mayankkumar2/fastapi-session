@@ -88,7 +88,7 @@ uvicorn main:app
 <td>
 		Mayank Kumar
 		<p align="center">
-			<img src = "https://dscvit.com/images/techteam/mayank.jpg" width="150" height="150" alt="Md Hishaam Akhtar">
+			<img src = "https://dscvit.com/images/techteam/mayank.jpg" width="150" height="150" alt="Mayank Kumar">
 		</p>
 			<p align="center">
 				<a href = "https://github.com/mayankkumar2">
